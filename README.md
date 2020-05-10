@@ -1,3 +1,14 @@
+![Demo](./Screenshot.png)
+
+
+## ReactTodoList
+
+Test je algemene kennis met deze game. In de app zie je een vraag met drie mogelijke antwoorden. Als je op 1 klikt zie je direct of je het goed had. vervolgens kun je weer verder gaan naar de volgende vraag.
+
+### Project doel
+Dit zelf-project is bedoeld als oefening-project om vertrouwd te raken met React (components, setStates en hooks useState).
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
